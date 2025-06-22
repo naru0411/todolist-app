@@ -19,7 +19,7 @@ LocalStorageに保存するため、ページを更新してもデータが残�
 - LocalStorageによるデータ永続化
 
 ## 画面イメージ
-![アプリ画面](![alt text](image-1.png))
+[アプリ画面](![alt text](image-1.png))
 
 ## 開発環境
 - Node.js
