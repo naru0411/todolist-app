@@ -26,7 +26,12 @@ LocalStorageに保存するため、ページを更新してもデータが残�
 - npm
 - Visual Studio Code
 
-## 起動方法
+## 🚀 起動方法（ローカル）
+
+以下の手順で、開発用サーバーを立ち上げて動作確認できます。
+
 ```bash
+git clone https://github.com/naru0411/todolist-app.git
+cd todolist-app
 npm install
 npm start
